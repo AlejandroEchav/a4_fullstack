@@ -1,0 +1,28 @@
+.cormorantFont{ 
+	font-family: 'Courgette', cursive;
+	text-align: center;
+	font-size: 5em;
+	color: #FF0000
+}
+
+h2, h3{
+	font-family: 'Cormorant SC', serif;
+	text-align:center;
+	font-size: 2em;
+	color: #000
+}
+
+body{
+	background-image: url("../images/fullstack4.jpg")
+}
+
+hr{
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: autor;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #FF0000
+}
